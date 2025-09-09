@@ -3,6 +3,7 @@
 ## Overview
 A sketch file viewer implemented in C that reads and renders .sk sketch files in a 200x200 pixel window. This project demonstrates core skills in C programming, memory management, file I/O, and bit manipulation.
 
+![Sketch Viewer Screenshot](images/Sketch01.png)
 ## Features
 - Implements a drawing state to track current and target positions for the drawing tools.
 - Reads .sk files in binary format and renders sketches in a GUI window.
